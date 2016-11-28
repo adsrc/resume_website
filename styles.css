@@ -1,0 +1,43 @@
+
+
+
+.welcome {
+    font-family: Helvetica;
+    font-size: 50;
+    margin-top: 175px;
+    margin-bottom: 100px;
+    color: white;
+    text-align: center; 
+    letter-spacing: 2px;
+    text-shadow: 3px 3px black;
+}
+
+.welcome-text {
+    font-family: sans-serif;
+    font-size: 30;
+    letter-spacing: 2px;
+    line-height: 30px;
+}
+
+.body-content {
+    width: 650px;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: Helvetica-light;
+    color: white;
+    margin-bottom: 400px;
+    
+
+
+}
+
+.body-content p {
+    font-size: 20px ;
+    letter-spacing: 2px;
+    line-height: 25px;
+    text-align: inherit;
+
+}
+
+
+
